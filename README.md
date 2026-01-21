@@ -108,7 +108,6 @@ Screenshots of SQL query outputs and result tables are included in the repositor
 └── query_result_3.png
 
 📝 README.md
----
 
 ---
 
