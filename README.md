@@ -1,4 +1,4 @@
-```markdown
+
 # 🏥 Healthcare Data Analysis using SQL (CSV-Based Database)
 
 ## 📌 Project Overview
