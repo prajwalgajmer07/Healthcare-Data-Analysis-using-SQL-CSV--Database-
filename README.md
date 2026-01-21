@@ -91,8 +91,6 @@ Screenshots of SQL query outputs and result tables are included in the repositor
 
 ## 📁 Repository Structure
 
-```
-
 📁 Dataset
 ├── Patients.csv
 ├── Diagnoses.csv
